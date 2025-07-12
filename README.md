@@ -10,4 +10,3 @@ Stay connected with the Torch Finance community:
 - [Mini App](https://t.me/tgusd_official_bot)
 - [Telegram](https://t.me/torch_ton)
 - [X](https://x.com/home)# torch-tgusd-contract
-# torch-tgusd-contract
