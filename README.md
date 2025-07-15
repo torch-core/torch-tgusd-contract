@@ -1,4 +1,4 @@
-# Torch Finance Dex Contract
+# Torch Finance Telegram USD Contract
 
 [Telegram USD](https://app.tgusd.io/) — a stablecoin backed by blue-chip assets such as USDT, built for Telegram users. With simple minting and seamless staking, tgUSD makes cross-chain yield accessible in a few taps.
 
